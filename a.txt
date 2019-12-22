@@ -2,3 +2,6 @@ git is a version control system
 first modification
 second midify
 4th modify
+git reset --hard + HEAD/HEAD^/HEAD^^/HEAD~100
+git reset --hard + versionNumber
+git reflog (to check versionNumber)
