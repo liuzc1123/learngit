@@ -7,3 +7,4 @@ git reset --hard + versionNumber
 git reflog (to check versionNumber)
 unstaged
 git branch dev + git checkout dev
+git branch \ngit switch\ngit merge\n git branch -d
