@@ -5,3 +5,4 @@ second midify
 git reset --hard + HEAD/HEAD^/HEAD^^/HEAD~100
 git reset --hard + versionNumber
 git reflog (to check versionNumber)
+unstaged
