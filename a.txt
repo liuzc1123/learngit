@@ -9,3 +9,4 @@ unstaged
 git branch dev + git checkout dev
 git branch \ngit switch\ngit merge\n git branch -d
 git merge -no-ff -m for none fastforward merge
+git stash
